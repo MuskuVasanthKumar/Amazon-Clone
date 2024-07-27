@@ -1,0 +1,1 @@
+# This project is a clone of the Amazon website, focusing on recreating its user interface using HTML and CSS. The goal is to practice front-end development skills and understand how complex layouts are structured.
